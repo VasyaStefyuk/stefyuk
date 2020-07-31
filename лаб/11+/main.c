@@ -14,9 +14,8 @@ int main(int argc, char *argv[]) {
 	}
 	
 	for (i=0;i<26;i++){
-		if (mista[i]=='Italiya');
-		
-		v=v+1;
+		if (mista[i]='Italiya');
+				v=v+1;
 	for (j=0;j<v;j++){
 		vxode[j]=cantri[i];
 	}}
